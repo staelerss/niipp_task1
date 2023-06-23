@@ -15,7 +15,7 @@
 
 using namespace std;
 
-const string input = "sdweqwP:2222/33:PqweqwA:0.2:AqwqT:39.4:Tqweqw";
+const string input = "sdweqwP:120/80:PqweqwA:0.016:AqwqT:36.7:Tqweqw";
 
 class sensorData {
 public:
